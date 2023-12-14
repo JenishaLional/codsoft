@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Landing Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 2em auto;
+            padding: 2em;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jenisha Lional</h1>
+        <p>Welcome to our landing page!</p>
+    </header>
+
+    <section>
+        <h2>About</h2>
+        <p>This is a codsoft internship - Landing Page of web developement level-1 task-1.</p>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: jenishalio@gmail.com<br>Phone: (123) 456-7890</p>
+    </section>
+
+    <footer>
+        &copy; 2023 Jenisha Lional
+    </footer>
+</body>
+</html>
